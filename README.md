@@ -12,7 +12,7 @@ Hi there! I'm **Srishti Rautela**, a passionate and curious **Computer Science E
 I love exploring how technology can **solve real-world problems**, and I’m always eager to learn, build, and share knowledge.  
 
 **🌟 A Few Facts About Me:**  
-- 🌐 **Tech Explorer**: Interested in **Machine Learning, Cloud, and Web Development**  
+- 🌐 **Tech Explorer**: Interested in **Database Management System, Google Cloud, and Web Development**  
 - 🔧 **Builder Mindset**: Love turning ideas into impactful projects & tools  
 - ✍️ **Creative Writer**: *Content Writing Head @ NSS GEHU*  
 - 🎤 **Public Speaker**: Awarded on **DD National News**  
