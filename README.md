@@ -2,7 +2,7 @@
 # Hi 👋, I'm Srishti Rautela  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=600&height=50&lines=Computer+Science+Engineering+Student;Passionate+about+Machine+Learning+%26+Cloud;Open-Source+Contributor+%7C+Content+Writer;Always+Exploring+%7C+Always+Learning+🚀&center=true&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=600&height=50&lines=Computer+Science+Engineering+Student;Passionate+about+Data +Analysis+%26Google+Cloud;Open-Source+Contributor+%7C+Content+Writer;Always+Exploring+%7C+Always+Learning+🚀&center=true&vCenter=true">
 </p>
 
 ---
